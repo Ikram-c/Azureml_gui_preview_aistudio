@@ -1,0 +1,5 @@
+{
+  "name": "Azure Cloud Send",
+  "description": "Integrated web dashboard for managing Azure Blob Storage, Azure Machine Learning workspaces, job monitoring, and GitHub repositories.",
+  "requestFramePermissions": []
+}
